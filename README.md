@@ -1,10 +1,10 @@
 # README
 
 This is a "React Admin Dashboard Application" This Admin Panel includes :
-One Dashboard : 
-Three Pages : consists of different type of tabular data with different functionalities. 
-Four fully functional Apps: including Calander , Kanbanboard, Text Editor and color picker 
-Seven fully functional charts: including Line, pie pyramid chart and others
+One Dashboard page  <br> 
+Three Pages : consists of different type of tabular data with different functionalities.  <br>
+Four fully functional Apps: including Calander , Kanbanboard, Text Editor and color picker <br>
+Seven fully functional charts: including Line, pie pyramid chart and much more. <br>
 
 # DEMO 
 https://gkdashboard.netlify.app/
