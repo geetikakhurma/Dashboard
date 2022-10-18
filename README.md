@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# README
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a "React Admin Dashboard Application" This Admin Panel includes :
+One Dashboard : 
+Three Pages : consists of different type of tabular data with different functionalities. 
+Four fully functional Apps: including Calander , Kanbanboard, Text Editor and color picker 
+Seven fully functional charts: including Line, pie pyramid chart and others
+
+# DEMO 
+gkdashboard.netlify.app
+![Screenshot from 2022-10-18 11-26-21](https://user-images.githubusercontent.com/43034251/196347309-b1530bd5-fd1d-44d2-a66b-013e1a80f3ef.png)
+
+
 
 ## Available Scripts
 
