@@ -1,6 +1,6 @@
 # README
 
-This is a "React Admin Dashboard Application" This Admin Panel includes :
+This is a "React Admin Dashboard Application" This Admin Panel includes : <br>
 One Dashboard page  <br> 
 Three Pages : consists of different type of tabular data with different functionalities.  <br>
 Four fully functional Apps: including Calander , Kanbanboard, Text Editor and color picker <br>
