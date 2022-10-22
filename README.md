@@ -6,7 +6,7 @@ Three Pages : consists of different type of tabular data with different function
 Four fully functional Apps: including Calander , Kanbanboard, Text Editor and color picker <br>
 Seven fully functional charts: including Line, pie pyramid chart and much more. <br>
 
-It is made using HTML,Tailwind css,Javascript, React and JavaScript UI Syncfusion 
+It is developed using React JS, Syncfusion (A JavaScript UI), Tailwind css, HTML.
 # DEMO 
 https://gkdashboard.netlify.app/
 
